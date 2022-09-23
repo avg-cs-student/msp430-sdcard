@@ -28,5 +28,3 @@ http://elm-chan.org/fsw/ff/00index_e.html
 
 The only modifications I've made to the library are to include a custom header
 file to direct the library to the appropriate pins for my board.
-
-
