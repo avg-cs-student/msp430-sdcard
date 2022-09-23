@@ -2,10 +2,14 @@
 
 This code serves as a working demo of how to write data to a uSD card using an
 MSP430FR5994 microcontroller. 
+
 `
-sd_test
-    ├── makefile      
+sd_test 
+
+    ├── makefile  
+    
     ├── msp430_dev          -> a small library of development functions
+    
     │  └── msp430_dev.c
     ├── msp430_dev.h
     ├── README.md
