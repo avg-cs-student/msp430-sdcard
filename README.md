@@ -3,8 +3,7 @@
 This code serves as a working demo of how to write data to a uSD card using an
 MSP430FR5994 microcontroller. 
 
-`
-sd_test 
+## Folder Structure: 
 
     ├── makefile    
     ├── msp430_dev          -> a small library of development functions
@@ -22,7 +21,6 @@ sd_test
        ├── sd_controller.c
        ├── sd_controller.h
        └── sd_msp430fr5994_launchpad.h
-`
 
 
 The code in this repository uses a FAT file sd card library created by Chan, see: 
